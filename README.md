@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Flow-Ting/osTicket-Prerequisites-and-Installation)
-  - [osTicket: Post-Installation Configuration]([https://github.com/joshmadakorcc/post-install-config](https://github.com/Flow-Ting/osTicket-Post-Installation-Configuration))
+  - [osTicket: Post-Installation Configuration](https://github.com/Flow-Ting/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Flow-Ting/osTicket-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Flow-Ting/Setting-Up-Active-Directory-using-Azure-VMs)
