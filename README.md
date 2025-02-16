@@ -3,12 +3,15 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/Flow-Ting/osTicket-Prerequisites-and-Installation)
+  - [osTicket: Post-Installation Configuration]([https://github.com/joshmadakorcc/post-install-config](https://github.com/Flow-Ting/osTicket-Post-Installation-Configuration))
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Flow-Ting/osTicket-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Flow-Ting/Setting-Up-Active-Directory-using-Azure-VMs)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols]([https://github.com/joshmadakorcc/azure-network-protocols](https://github.com/Flow-Ting/Network-Security-Groups-NSGs-))
+- <b>Microsoft Azure</b>
+  - [VPN Setup in Virtual Machhines](https://github.com/Flow-Ting/VPN)
+
 
 <h2>🤳Connect with me:</h2>
 
