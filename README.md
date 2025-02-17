@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Flow-Ting/Setting-Up-Active-Directory-using-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Flow-Ting/Network-Security-Groups-NSGs-)
 - <b>Microsoft Azure</b>
-  - [VPN Setup in Virtual Machhines](https://github.com/Flow-Ting/VPN)
+  - [VPN Setup in Virtual Machines](https://github.com/Flow-Ting/VPN)
 
 
 <h2>🤳Connect with me:</h2>
